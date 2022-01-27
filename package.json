@@ -1,0 +1,12 @@
+{
+	"name": "dictation",
+	"version": "1.0.0",
+	"description": "",
+	"main": "main.js",
+	"keywords": [],
+	"author": "colorful",
+	"license": "ISC",
+	"devDependencies": {
+		"@autojs/types-pro9": "^9.0.0"
+	}
+}
